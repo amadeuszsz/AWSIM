@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 543596ca96983417cb4c08558e80fc49
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthChassisMaterial
+    second: {fileID: 2100000, guid: 0cca1f0dc65252d3aab148c280b58486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthComponents
+    second: {fileID: 2100000, guid: 0094454bb31044b1cbb16e36c8bfb381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthMetalRoughBody
+    second: {fileID: 2100000, guid: 67303fd673b34112ab0fd0c03c133dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthMetalRoughFL
+    second: {fileID: 2100000, guid: 90e98a018f3964730967baa644c48874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthMetalRoughFR
+    second: {fileID: 2100000, guid: 8ac2f912840b24c8eaf6efbc10682c21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthMetalRoughRL
+    second: {fileID: 2100000, guid: 027f80494fdb50aa19c94dc1e31c8c42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthMetalRoughRR
+    second: {fileID: 2100000, guid: b3726803897869ee7a6407375def2501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthPlasticRoughBody
+    second: {fileID: 2100000, guid: e93a8313627dc09eeb8c55b4b00001e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthPlasticRoughFL
+    second: {fileID: 2100000, guid: 0fef55f6b519d9a659dd102c1178b5bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthPlasticRoughFR
+    second: {fileID: 2100000, guid: e1884a55040a864b484977aba497892a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthPlasticRoughRL
+    second: {fileID: 2100000, guid: 20db806d146863284a0e79852272604e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthPlasticRoughRR
+    second: {fileID: 2100000, guid: 4fe4542b406497291a826a8673e039a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthPlasticSmooth
+    second: {fileID: 2100000, guid: 650569db6649c4159b2ddb262ff3cdb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthTireFL
+    second: {fileID: 2100000, guid: f885432c355fbe00ca886bb0e3d615cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthTireFR
+    second: {fileID: 2100000, guid: ca76dd3760c65ef09b975a8a5eb6ef15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthTireRL
+    second: {fileID: 2100000, guid: f0329109163771a319b148c21719715b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthTireRR
+    second: {fileID: 2100000, guid: b7e561758dd7bbccd891aa6b59be92e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthWheelFL
+    second: {fileID: 2100000, guid: 0f00ed3ee598854bebedf946656f0be6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthWheelFR
+    second: {fileID: 2100000, guid: a34af2e1d54add7b0add1c8c8f3f66fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthWheelRL
+    second: {fileID: 2100000, guid: 8b4e14d3c3ebf1c3a955a90df3dc379e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F1TenthWheelRR
+    second: {fileID: 2100000, guid: ee551d27e7cdb5398a214e7c27e38b5a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lower_chassis
+    second: {fileID: 2800000, guid: d3cc62bf047eab409aaa6ad4fe2d4696, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lower_chassis_normal
+    second: {fileID: 2800000, guid: adcbee4a0efcdb77c90d63f0ff88a804, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2800000, guid: 854e3519d5bf80800be7501bf95dcd5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tire_normal
+    second: {fileID: 2800000, guid: 85493aba2604e34eba6505e7354036d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: upper_chassis
+    second: {fileID: 2800000, guid: 3f655da8b9a2efc91a6d3e062f707854, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: upper_chassis_normal
+    second: {fileID: 2800000, guid: f73a5c56ea7f208019a7e2671fb5beb0, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
