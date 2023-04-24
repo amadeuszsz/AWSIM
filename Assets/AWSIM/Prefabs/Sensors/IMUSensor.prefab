@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5762454874707511909}
   - component: {fileID: 1213553379199470883}
   m_Layer: 0
-  m_Name: ImuSensor
+  m_Name: IMUSensor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 437858bc45be00647884586a2aa9da08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OutputHz: 30
+  OutputHz: 50
 --- !u!114 &1213553379199470883
 MonoBehaviour:
   m_ObjectHideFlags: 0

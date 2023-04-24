@@ -1475,7 +1475,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f709a7f1c474e170b06f8bb3c14882a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OutputHz: 30
+  OutputHz: 50
 --- !u!114 &326493141171359322
 MonoBehaviour:
   m_ObjectHideFlags: 0
